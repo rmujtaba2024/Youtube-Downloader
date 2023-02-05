@@ -10,4 +10,4 @@ pip install pytube
 pip install moviepy
 python download.py
 ```
-![alt text](ytdownload.png){height="50%" width="50%"}
+![alt text](ytdownload.png =250x250)
